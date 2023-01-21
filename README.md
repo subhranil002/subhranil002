@@ -1,4 +1,4 @@
-# 𝐻𝑖 ! 𝐼'𝑚 𝑺𝒖𝒃𝒉𝒓𝒂𝒏𝒊𝒍 ... <img src="https://user-images.githubusercontent.com/106914208/213784696-b80e8b33-736a-476e-9e30-c9ec6dbcb6ea.gif" width="3%" />
+# 𝐻𝑖 ! 𝐼'𝑚 𝑺𝒖𝒃𝒉𝒓𝒂𝒏𝒊𝒍 ... <img src="https://user-images.githubusercontent.com/106914208/213784696-b80e8b33-736a-476e-9e30-c9ec6dbcb6ea.gif" width="35" />
 <div align="center">
 <img src="https://user-images.githubusercontent.com/106914208/213784142-a769db1d-f874-4d94-9670-e3656012c71a.gif" alt="GitHub Logo" width="25%"/>
 </div>
@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/106914208/213787558-aac27827-0e53-4125-9de9-23d6e18470ec.gif" width="50%"/>
 
-<b>I am a 2nd year BCA student ...</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="3%" />
+<b>**I am a 2nd year BCA student ...**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="3%" />
 </div>
 
 ---
