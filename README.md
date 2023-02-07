@@ -1,10 +1,5 @@
 # 𝑯𝒊 ... 𝑰'𝒎 𝑺𝒖𝒃𝒉𝒓𝒂𝒏𝒊𝒍 ... <img src="https://user-images.githubusercontent.com/106914208/213784696-b80e8b33-736a-476e-9e30-c9ec6dbcb6ea.gif" width="35" />
 <div align="center">
-<img src="https://user-images.githubusercontent.com/106914208/213784142-a769db1d-f874-4d94-9670-e3656012c71a.gif" alt="GitHub Logo" width="250"/>
-</div>
-
-# 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕋𝕠 𝕄𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 ❕ <img align="center" src="https://user-images.githubusercontent.com/106914208/213788360-80332f10-3571-48e0-8bcf-5cadd2fd5b1b.gif" width="65" />
-<div align="center">
 <img src="https://user-images.githubusercontent.com/106914208/213787558-aac27827-0e53-4125-9de9-23d6e18470ec.gif" width="600"/>
 
 <b>**𝙸 𝚊𝚖 𝚊 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛 𝙱𝙲𝙰 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 ...**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="25" />
