@@ -8,12 +8,13 @@
 ---
 
 #  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
-- 🌱 I’m currently learning **MERN Stack**
-- 🔭 I’m currently working on: **Personal Projects**
-- 💬 Talk to me about **Java, JavaScript, Python**
-- 😄 I would love to collaborate on **Open-Source Projects**
-- ♟ We can connect to play some **Chess** 
-- 💻 **Tech I work on :**
+- 🌱 **Currently Learning:** MERN Stack
+- 🔭 **Working On:** Personal Projects
+- 💬 **Ask Me About:** Java, JavaScript, Python
+- 😄 **Collaboration Interests:** Open-Source Projects
+- ♟ **Let's Play Chess!** 
+
+### 💻 Tech I Work With:
 
 <img src="https://skillicons.dev/icons?i=androidstudio,appwrite,atom,aws,bash,bootstrap,bun,c,cpp,cloudflare,codepen,css,docker,dynamodb,express,figma,firebase,flask,gcp,git,github,gitlab,graphql,heroku,html,htmx,java,js,jest,kafka,linux,md,matlab,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,opencv,ps,php,postgres,postman,powershell,prisma,py,rabbitmq,react,redis,redux,regex,replit,sqlite,stackoverflow,sublime,supabase,tailwind,ts,ubuntu,vercel,vim,vite,vscode,windows,yarn" />
 
