@@ -1,18 +1,19 @@
-# 𝑯𝒊 ... 𝑰'𝒎 𝑺𝒖𝒃𝒉𝒓𝒂𝒏𝒊𝒍 ... <img src="https://user-images.githubusercontent.com/106914208/213784696-b80e8b33-736a-476e-9e30-c9ec6dbcb6ea.gif" width="35" />
-<div align="center">
-<img src="https://user-images.githubusercontent.com/106914208/213787558-aac27827-0e53-4125-9de9-23d6e18470ec.gif" width="600"/>
-
-<b>**𝙸 𝚊𝚖 𝚊 3rd 𝚢𝚎𝚊𝚛 𝙱𝙲𝙰 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 ...**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="25" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic&weight=900&size=32&duration=4000&pause=500&color=37E6F7&background=2EC02800&center=true&random=false&width=500&lines=Hi!+I+am+Subhranil;MERN+Stack+Developer">
+  <br/>
+  <img src="https://user-images.githubusercontent.com/106914208/213787558-aac27827-0e53-4125-9de9-23d6e18470ec.gif" width="500"/>
+</p>
 
 ---
 
-#  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
+###  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="15" />
 - 🌱 **Currently Learning:** MERN Stack
 - 🔭 **Working On:** Personal Projects
 - 💬 **Ask Me About:** Java, JavaScript, Python
 - 😄 **Collaboration Interests:** Open-Source Projects
 - ♟ **Let's Play Chess!** 
+
+<br/>
 
 ### 💻 Tech I Work With:
 
