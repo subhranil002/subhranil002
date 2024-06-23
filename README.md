@@ -6,7 +6,7 @@
 
 ---
 
-###  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="15" />
+#  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="15" />
 - 🌱 **Currently Learning:** MERN Stack
 - 🔭 **Working On:** Personal Projects
 - 💬 **Ask Me About:** Java, JavaScript, Python
@@ -15,7 +15,7 @@
 
 <br/>
 
-### 💻 Tech I Work With:
+## 💻 Tech I Work With:
 
 <img src="https://skillicons.dev/icons?i=androidstudio,appwrite,atom,aws,bash,bootstrap,bun,c,cpp,cloudflare,codepen,css,docker,dynamodb,express,figma,firebase,flask,gcp,git,github,gitlab,graphql,heroku,html,htmx,java,js,jest,kafka,linux,md,matlab,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,opencv,ps,php,postgres,postman,powershell,prisma,py,rabbitmq,react,redis,redux,regex,replit,sqlite,stackoverflow,sublime,supabase,tailwind,ts,ubuntu,vercel,vim,vite,vscode,windows,yarn" />
 
