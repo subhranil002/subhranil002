@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic&weight=900&size=32&duration=4000&pause=500&color=37E6F7&background=2EC02800&center=true&random=false&width=500&lines=Hi!+I+am+Subhranil;MERN+Stack+Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic&weight=900&size=32&duration=4000&pause=500&color=37E6F7&background=2EC02800&center=true&random=false&width=500&lines=Hi!+I+am+Subhranil;Full+Stack+Developer">
   <br/>
   <img src="https://user-images.githubusercontent.com/106914208/213787558-aac27827-0e53-4125-9de9-23d6e18470ec.gif" width="500"/>
 </p>
