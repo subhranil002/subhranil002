@@ -21,7 +21,6 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=subhranil002&theme=chartreuse-dark&hide_border=true&border_radius=4.2&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subhranil002&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=500)
 
-![](https://visitcount.itsvg.in/api?id=subhranil002&label=Profile%20Views&pretty=true)
+[![](https://visitcount.itsvg.in/api?id=subhranil002&label=Profile%20Views&pretty=true)](https://komarev.com/ghpvc/?username=subhranil002&color=blueviolet&style=plastic&base=5000&abbreviated=true)
